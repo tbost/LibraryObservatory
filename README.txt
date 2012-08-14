@@ -13,10 +13,29 @@ CONTENTS
 This repository presently contains two main resources: the first is a 'toolbox' of code snippets for use with the DPLA Item and Contributor APIs, and second is a series of more fully developed applets.  Currently all code is limited to Processing.
 
 Code Toolbox:
-???????
-???????
+Basic Item API Querying
+Basic Contributor API Querying
+Basic JSON Parsing
+Exhaustive Querying/Parsing
+Simple Geolocation?
+Basic Modest Maps Drawing?
+Interactive Timeline
 
 Sample Applets:
-???????
-???????
+KeywordFaceter
+[insert short description]
 
+TimelineBarChart
+[insert short description]
+
+AccesionsRecords
+[insert short description]
+
+EarlyModernPublishing_Animation
+[insert short description]
+
+IMLS_GIS
+[insert short description]
+
+Urban-Rural IMLS Library Comparison
+[insert short description]
