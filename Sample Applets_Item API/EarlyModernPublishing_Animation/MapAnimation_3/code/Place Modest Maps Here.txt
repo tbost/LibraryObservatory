@@ -1,0 +1,3 @@
+Download Modest Maps .jar file and paste it here:
+
+https://github.com/RandomEtc/modestmaps-processing
