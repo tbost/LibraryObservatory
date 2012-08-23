@@ -1,8 +1,6 @@
-/////////////////////
 LIBRARY OBSERVATORY
 metaLAB (at) harvard
 metalab.harvard.edu
-/////////////////////
 
 
 DESCRIPTION
@@ -12,30 +10,15 @@ Library Observatory is an on-going project at metaLAB, based at Harvard Universi
 CONTENTS
 This repository presently contains two main resources: the first is a 'toolbox' of code snippets for use with the DPLA Item and Contributor APIs, and second is a series of more fully developed applets.  Currently all code is limited to Processing.
 
-Code Toolbox:
-Basic Item API Querying
-Basic Contributor API Querying
-Basic JSON Parsing
-Exhaustive Querying/Parsing
-Simple Geolocation?
-Basic Modest Maps Drawing?
-Interactive Timeline
+The Toolbox:
+1 - DPLA API Guides
+2 - Basic Querying and Parsing
+3 - Zoomable Timeline
 
 Sample Applets:
-KeywordFaceter
-[insert short description]
-
-TimelineBarChart
-[insert short description]
-
-AccesionsRecords
-[insert short description]
-
-EarlyModernPublishing_Animation
-[insert short description]
-
-IMLS_GIS
-[insert short description]
-
-Urban-Rural IMLS Library Comparison
-[insert short description]
+1 - KeywordFaceter
+2 - TimelineBarChart
+3 - AccesionsRecords
+4 - EarlyModernPublishing_Animation
+5 - IMLS_GIS
+6 - Urban-Rural IMLS Library Comparison

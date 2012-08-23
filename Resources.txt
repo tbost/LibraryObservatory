@@ -1,8 +1,11 @@
 RESOURCES
+
+
+REFERENCE
+
 DPLA Dev Wikis:
 http://dp.la/dev/wiki/Item_API
 http://dp.la/dev/wiki/Contributor_API
-
 
 Guide to MARC21 Bibliographic System:
 http://www.loc.gov/marc/bibliographic/ecbdhome.html
@@ -11,9 +14,18 @@ Institute of Museum and Library Services Guide:
 https://harvester.census.gov/imls/pubs/Publications/fy2008_pls_data_file_documentation.pdf
 
 
+TOOLS
+
 JSONView Plug-in:
 http://jsonview.com/
 
+MARCEdit
+http://people.oregonstate.edu/~reeset/marcedit/html/index.php
+
+MARCUtility
+http://acumen.lib.ua.edu/project/?f=MARC%20Utility.txt
+
+THIRD PARTY LIBRARIES
 
 JSON4processing Library:
 https://github.com/agoransson/JSON-processing/
@@ -25,12 +37,7 @@ Modest Maps:
 https://github.com/RandomEtc/modestmaps-processing
 
 
+DATA SOURCES
+
 Digital Access to Scholarship at Harvard:
 http://openmetadata.lib.harvard.edu/content/digital-access-scholarship-harvard-dash-dataset
-
-
-MARCEdit
-http://people.oregonstate.edu/~reeset/marcedit/html/index.php
-
-MARCUtility
-http://acumen.lib.ua.edu/project/?f=MARC%20Utility.txt
