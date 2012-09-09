@@ -1,8 +1,8 @@
 /*********************************************
-This sketch simply makes a keyword search to the
-DPLA Item API for records on 'ancient egypt', then
-prints the JSON results, unparsed to the window.
-*********************************************/
+ This sketch simply makes a keyword search to the
+ DPLA Item API for records on 'ancient egypt', then
+ prints the JSON results, unparsed to the window.
+ *********************************************/
 
 //URL of Item API
 String baseURL = "http://api.dp.la/v0.03/item/";
@@ -28,6 +28,8 @@ void setup() {
 
   //Compile Query Request
   String search = baseURL + "?filter=" + filter + query + "&limit=" + limit + "&facet=" + facet;
+  println(search);
+  println();
 
   //Request Search from API
   String response = join(loadStrings(search), "");

@@ -1,4 +1,6 @@
+---------
 RESOURCES
+---------
 
 
 REFERENCE
@@ -25,6 +27,16 @@ http://people.oregonstate.edu/~reeset/marcedit/html/index.php
 MARCUtility
 http://acumen.lib.ua.edu/project/?f=MARC%20Utility.txt
 
+pyMARC
+https://github.com/edsu/pymarc
+
+MARC4J
+http://marc4j.tigris.org/
+
+MARC_record.js
+http://www.pusc.it/bib/mel/marc_record.js
+
+
 THIRD PARTY LIBRARIES
 
 JSON4processing Library:
@@ -37,7 +49,19 @@ Modest Maps:
 https://github.com/RandomEtc/modestmaps-processing
 
 
-DATA SOURCES
+OTHER DATA SOURCES
 
-Digital Access to Scholarship at Harvard:
+DASH - Digital Access to Scholarship at Harvard:
 http://openmetadata.lib.harvard.edu/content/digital-access-scholarship-harvard-dash-dataset
+
+Web of Knowledge:
+http://ip-science.thomsonreuters.com/info/terms-ws/
+
+IMLS Data Sources:
+http://www.imls.gov/research/data_sets.aspx
+
+Harvard/Radcliffe Annual Reports:
+http://hul.harvard.edu/huarc/refshelf/AnnualReportsCites.htm
+
+US Board of Geographic Names (Useful for building your own gazeteer for geolocation):
+http://geonames.usgs.gov/

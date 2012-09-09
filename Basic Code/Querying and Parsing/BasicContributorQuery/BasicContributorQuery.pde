@@ -1,9 +1,9 @@
 /*********************************************
-This sketch simply makes a keyword search to the
-DPLA Contributor API for libraries in the IMLS
-that are located in Texas, then prints the JSON
-results, unparsed to the window.
-*********************************************/
+ This sketch simply makes a keyword search to the
+ DPLA Contributor API for libraries in the IMLS
+ that are located in Texas, then prints the JSON
+ results, unparsed to the window.
+ *********************************************/
 
 //URL of Contributor API
 String baseURL = "http://api.dp.la/v0.03/contributor/";
@@ -23,6 +23,8 @@ String facet = "dpla.location.address.city";
 void setup() {
   //Compile Query Request
   String search = baseURL + "?filter=" + filter + query + "&limit=" + limit + "&facet=" + facet;
+  println(search);
+  println();
 
   //Request Search from API
   String response = join(loadStrings(search), "");

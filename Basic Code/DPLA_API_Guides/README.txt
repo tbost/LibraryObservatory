@@ -1,0 +1,2 @@
+DESCRIPTION
+These are 'cheat sheets' for the DPLA API documentation to keep as a tab for quick reference and easy copy/pasting, if necessary while writing your sketch.  All text is commented out and not meant to run or produce any image or document, they are only for reference.
