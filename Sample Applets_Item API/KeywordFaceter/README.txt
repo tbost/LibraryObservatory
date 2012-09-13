@@ -5,4 +5,4 @@ PROCESS
 This sketch makes use of the ControlP5 library for its text field GUI components.  All facets are requested on API query but then only one is displayed at a time based on the button toggles at left.
 
 TO DO
--Possibly create slider to adjust number of facets to allow
+Possibly create slider to adjust number of facets to allow

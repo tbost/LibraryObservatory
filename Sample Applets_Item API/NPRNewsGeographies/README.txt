@@ -6,3 +6,12 @@ First all records from contributor 'npr_org' were downloaded from the API.  The 
 
 
 TO DO / ISSUES
+It would be interesting if these countries could be reorganized both automatically (the classic circle network diagram, etc.) and manually by the user.
+
+It would also be useful to represent the countries by an icon, their flag or outline for example.
+
+Try to create a version that can be annotated by users to try to explain the origin of certain connections between countries, e.g. does New Zealand - Poland correlate with Kim Dotcom?
+
+In general time should be addressed on the connections and tallies, at the very least with a time stamp or perhaps correlate with a timeline.
+
+Create a link to something on the web that will attempt to show you the content being referenced by a tally/connection?

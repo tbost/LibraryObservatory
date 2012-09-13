@@ -25,7 +25,7 @@ String sortBy = "";
 
 void setupInterface() {
   size(800, 600);
-  font = loadFont("Bebas-24.vlw");
+  font = loadFont("Bebas-24.vlw");//Replace these with your own font
   font2 = loadFont("ArialMT-14.vlw");
   smooth();
   controlP5 = new ControlP5(this);
