@@ -7,6 +7,9 @@ geographic preferences of the library in this period, and the large quantity
 of non-Western items also being collected by the library from this
 period that are not mapped.
 
+An animated example can also be found here:
+http://vimeo.com/46773161
+
 
 PROCESS
 First an script is run that collects all records from the Item API
